@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0.2</version>
+  <url>http://emsegypt-001-site1.btempurl.com/EMS/Release.zip</url>
+  <changelog>http://emsegypt-001-site1.btempurl.com/EMS/EMSUpdate.html</changelog>
+  <mandatory>true</mandatory>
+</item>
